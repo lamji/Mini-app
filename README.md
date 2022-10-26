@@ -3,6 +3,7 @@
 ## Changelogs
 
 ```sh
+- v1.0.1 - Add Sample Card and Storybook
 - v1.0.1 - Add styles and postcss
 - v1.0.0 - Button Component
 ```
